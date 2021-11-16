@@ -1,0 +1,19 @@
+.list {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: beige;
+}
+
+h1 {
+    background-color: bisque;
+    color: brown;
+}
+
+.chefrush {
+    height: auto;
+    width: 250px;
+}
+
+#title {
+    background-color: bisque;
+    color: brown;
+}

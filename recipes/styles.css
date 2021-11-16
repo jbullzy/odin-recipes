@@ -1,0 +1,27 @@
+.list {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: beige;
+    text-align: center;
+}
+
+h1 {
+    background-color: bisque;
+    color: brown;
+    text-align: center;
+}
+
+.title {
+    background-color: bisque;
+    color: brown;
+}
+
+.dishphoto {
+    height: auto;
+    width: 300px;
+}
+
+.page {
+    background-color: bisque;
+}
+
+
